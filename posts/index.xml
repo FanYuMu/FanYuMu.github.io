@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on My New Hugo Project</title>
+    <link>https://example.org/posts/</link>
+    <description>Recent content in Posts on My New Hugo Project</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Aug 2026 16:32:16 +0800</lastBuildDate>
+    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>https://example.org/posts/hello-world/</link>
+      <pubDate>Tue, 11 Aug 2026 16:32:16 +0800</pubDate>
+      <guid>https://example.org/posts/hello-world/</guid>
+      <description>&lt;p&gt;这是我的第一篇文章。终于有一个完全属于自己的网站了！&lt;/p&gt;
+&lt;h2 id=&#34;今天做了什么&#34;&gt;今天做了什么&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;安装了 Hugo&lt;/li&gt;
+&lt;li&gt;学会了用命令行&lt;/li&gt;
+&lt;li&gt;创建了这个站点&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
