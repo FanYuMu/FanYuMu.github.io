@@ -1,6 +1,6 @@
 baseURL = 'https://fanyumu.github.io/'
 locale = 'en-us'
-title = 'My New Hugo Project'
+title = '听风'
 
 
 theme = 'PaperMod'
